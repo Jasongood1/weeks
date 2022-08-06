@@ -147,7 +147,7 @@ body {
 }
 
 .header {
-  background-image: url(/images/week2/banner.png);
+  background-image: url(/weeks/images/banner.png);
   display: flex;
   background-size: cover;
   background-repeat: no-repeat;
